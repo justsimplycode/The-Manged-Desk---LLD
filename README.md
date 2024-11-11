@@ -3,9 +3,9 @@
 
 
 
-# Staff Track
+# The Managed Desk
 
-Staff Track is a Task Management System which is a console-based application built in C#. It allows users to manage tasks within projects by creating, assigning, updating, and tracking tasks. It’s designed with modular classes for efficient task and user management, ensuring a flexible and extendable structure.
+The Managed Desk is a Task Management System which is a console-based application built in C#. It allows users to manage tasks within projects by creating, assigning, updating, and tracking tasks. It’s designed with modular classes for efficient task and user management, ensuring a flexible and extendable structure.
 
 ## Key Features
 
