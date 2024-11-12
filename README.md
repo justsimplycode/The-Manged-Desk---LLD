@@ -1,5 +1,6 @@
 # Low-Level Design
-![image](https://github.com/user-attachments/assets/3c63e83e-96ce-482e-b36d-e1298c981d7b)
+![Screenshot 2024-11-11 214554](https://github.com/user-attachments/assets/f29724ef-bdc4-48e7-978d-acc5fce646f1)
+
 
 
 
