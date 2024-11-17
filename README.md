@@ -1,4 +1,4 @@
-# Low-Level Design
+# Low-Level Design - UML Diagram
 ![Screenshot 2024-11-11 214554](https://github.com/user-attachments/assets/f29724ef-bdc4-48e7-978d-acc5fce646f1)
 
 
